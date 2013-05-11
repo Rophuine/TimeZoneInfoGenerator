@@ -1,7 +1,7 @@
 This is a quick and dirty application to generate windows .reg files to describe arbitrary custom time zones.
 
 At this initial stage, it is very rough and almost completely untested. Use it at your own risk.
-
+  
 I'm also using it to test something else. Pardon the pointless commits with longer-than-needed comments.
 Testing hooks for closing via commit!
 
